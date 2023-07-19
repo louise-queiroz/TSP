@@ -6,7 +6,7 @@ O Método de resolução do problema foi o de força bruta, ele verifica todos o
 ## Código
 O código foi feito em Python e inspirado [neste código](https://arthurcerveira.github.io/Travelling-Salesman-Problem/).
 
-#Execução
+## Execução
 Para sua execução é necessário possuir o Python no computador e executar no terminal:
 * Versão aproximada:
 ```
